@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI CALCULATOR</string>
+    <string name="Text1">BMI CALCULATOR</string>
+    <string name="button1">Calculate Now</string>
+    <string name="Text2">Enter Height in m</string>
+    <string name="Text3">Enter Weight in Kg</string>
+    <string name="button2">Calculate BM value</string>
+    <string name="textview4">BM Value</string>
+    <string name="textview2">Your Situation</string>
+</resources>
